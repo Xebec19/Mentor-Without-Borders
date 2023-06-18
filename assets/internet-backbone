@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" modified="2023-06-18T14:41:37.953Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oL0Bm1pOPdGSTxrjE8wK" version="21.5.0" type="device">
+  <diagram name="Page-1" id="RUOQ04xLcHQ8ySbMyRXp">
+    <mxGraphModel dx="808" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="WtZP_h5YqWusWhE4Jhav-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-1" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="WtZP_h5YqWusWhE4Jhav-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-3" value="ISP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="WtZP_h5YqWusWhE4Jhav-5" target="WtZP_h5YqWusWhE4Jhav-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-5" value="Internet Backbone" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=none;" edge="1" parent="1" source="WtZP_h5YqWusWhE4Jhav-7" target="WtZP_h5YqWusWhE4Jhav-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="WtZP_h5YqWusWhE4Jhav-7" target="WtZP_h5YqWusWhE4Jhav-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-7" value="ISP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WtZP_h5YqWusWhE4Jhav-9" value="Server&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="282" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
